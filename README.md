@@ -1,1 +1,1 @@
-# java progra to fnd GCD
+# java program to fnd GCD
